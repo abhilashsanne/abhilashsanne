@@ -1,4 +1,10 @@
-### Hi there 👋 I am `Abhilash Sanne`
+### Namaste 🙏
+
+<a href="https://www.linkedin.com/in/sanneabhilash/">
+  <img align="left" alt="Abhilash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 - 🔭 I’m currently working as a Software Engineer in Hyderabad, India
 - 🌱 I’m currently learning Machine Learning
