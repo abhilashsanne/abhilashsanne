@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 👋 I am `Abhilash Sanne`
+🔭 I’m currently working as a Software Engineer in Hyderabad, India
+🌱 I’m currently learning Machine Learning
+💬 Ask me about Personal Finance, SiFi Movies
+😄 Pronouns: He / Him
 <!--
 **sanneabhilash/sanneabhilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
