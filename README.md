@@ -2,18 +2,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/sanneabhilash) &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sanneabhilash.sanneabhilash?style=for-the-badge) &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/sanneabhilash?style=social)
 
-- 🔭 I’m Abhilash Sanne, currently working as a Software Engineer in Hyderabad, India
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on Data Analytics and Machine Learning Projects
+- 🔭 I’m currently working as a Software Engineer in Hyderabad, India
+- 🌱 I’m a Data Science and Machine Learning enthusiast
+- 👯 I’m looking forward to collaborate on Data Analytics and Machine Learning Projects
 - 💬 Ask me about Personal Finance, SciFi Movies
 - 😄 Pronouns: He / Him
-- 📫 How to reach me: 
+- 📫 How to reach me: <br/>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2.5%" align="center"/>](https://www.linkedin.com/in/sanneabhilash/)  &nbsp; <a href="mailto:sanne.abhi@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="2.5%" align="center"/></a> &nbsp; 
   
 
 
 **Languages:**  
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
