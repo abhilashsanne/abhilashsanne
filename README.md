@@ -7,31 +7,27 @@
 - 👯 I’m looking to collaborate on Data Analytics and Machine Learning Projects
 - 💬 Ask me about Personal Finance, SciFi Movies
 - 😄 Pronouns: He / Him
-- 📫 How to reach me: <br/>
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sanneabhilash/)  &nbsp; <a href="mailto:sanne.abhi@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a> &nbsp; 
-
-
-#### 
+- 📫 How to reach me: 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2.5%" align="center"/>](https://www.linkedin.com/in/sanneabhilash/)  &nbsp; <a href="mailto:sanne.abhi@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="2.5%" align="center"/></a> &nbsp; 
   
 
 
-**languages and tools:**  
+**Languages:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+
+
+**Tools:**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 
-  
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 
-  
-<a href="https://www.buymeacoffee.com/sanneabhilash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -53,3 +49,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
   
  [![trophy](https://github-profile-trophy.vercel.app/?username=sanneabhilash&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sanneabhilash&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+ 
+ 
+If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 
+  
+<a href="https://www.buymeacoffee.com/sanneabhilash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+
