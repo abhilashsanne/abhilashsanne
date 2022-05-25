@@ -1,11 +1,11 @@
-### Abhilash Sanne 🙏
+### Abhilash Sanne - Lead SDET @ThoughtSpot
 
 ![GitHub followers](https://img.shields.io/github/followers/sanneabhilash) &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sanneabhilash.sanneabhilash?style=for-the-badge) &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/sanneabhilash?style=social)
 
-- 🔭 I’m currently working as a Software Engineer in Hyderabad, India
+- 🔭 I’m currently working as a Lead QA Automation Test Engineer in Hyderabad, India
 - 🌱 I’m a Data Science and Machine Learning enthusiast
 - 👯 I’m looking forward to collaborate on Data Analytics and Machine Learning Projects
-- 💬 Ask me about Personal Finance, SciFi Movies
+- 💬 Ask me about Personal Finance, Data Analytics, QA Automation Testing
 - 😄 Pronouns: He / Him
 - 📫 How to reach me: <br/>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2.5%" align="center"/>](https://www.linkedin.com/in/sanneabhilash/)  &nbsp; <a href="mailto:sanne.abhi@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="2.5%" align="center"/></a> &nbsp; 
@@ -37,9 +37,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanneabhilash&show_icons=true&&theme=radical" alt="Abhilash's GitHub Stats" />
 </a>
 
-<a href="https://github.com/sanneabhilash/aassert">
+<!-- <a href="https://github.com/sanneabhilash/aassert">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanneabhilash&repo=aassert&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 <a href="https://github.com/sanneabhilash/TestNG_With_Java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanneabhilash&repo=TestNG_With_Java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -63,4 +63,9 @@
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 
   
 <a href="https://www.buymeacoffee.com/sanneabhilash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+
+## &#x1f4c8; Resume:
+<a href="https://github.com/sanneabhilash/DesktopCodedUiAutomation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanneabhilash&repo=DesktopCodedUiAutomation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
