@@ -64,8 +64,6 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 <a href="https://www.buymeacoffee.com/sanneabhilash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
 
-## &#x1f4c8; Resume:
-<a href="[https://github.com/sanneabhilash/DesktopCodedUiAutomation](https://github.com/sanneabhilash/sanneabhilash/blob/main/Abhilash_Resume.pdf)">
-  <img align="center" src="https://github.com/sanneabhilash/sanneabhilash/blob/main/Abhilash_Resume.pdf" />
-</a> 
+## Resume:
+<a href="https://github.com/sanneabhilash/sanneabhilash/blob/main/Abhilash_Resume.pdf" target="_blank">Please click here.</a> <embed src="https://github.com/sanneabhilash/sanneabhilash/blob/main/Abhilash_Resume.pdf" width="1000px" height="800px" />
 
