@@ -66,4 +66,3 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Resume:
 <a href="https://github.com/sanneabhilash/sanneabhilash/blob/main/Abhilash_Resume.pdf" target="_blank">Please click here.</a> <embed src="https://github.com/sanneabhilash/sanneabhilash/blob/main/Abhilash_Resume.pdf" width="1000px" height="800px" />
-
