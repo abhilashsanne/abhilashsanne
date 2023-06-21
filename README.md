@@ -11,7 +11,7 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2.5%" align="center"/>](https://www.linkedin.com/in/sanneabhilash/)  &nbsp; <a href="mailto:sanne.abhi@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="2.5%" align="center"/></a> &nbsp; 
   
 
-** KEY ROLES PLAYED:**
+**Key Roles Played:**  
 - Developed hybrid automation test frameworks integrating UI, API, and database testing components.
 - Implemented custom execution strategies to significantly reduce and optimize test execution time.
 - Built an API-based load test suite using JMeter to simulate up to 5X load conditions.
